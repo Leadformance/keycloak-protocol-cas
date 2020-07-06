@@ -30,7 +30,7 @@ dependencies {
   // Use JUnit test framework
   testCompile 'junit:junit:4.13'
   testCompile 'org.xmlunit:xmlunit-core:2.7.0'
-  testCompile 'com.jayway.jsonpath:json-path:2.2.0'
+  testCompile 'com.jayway.jsonpath:json-path:2.4.0'
 }
 
 compileJava {
