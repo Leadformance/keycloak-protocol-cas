@@ -28,7 +28,7 @@ dependencies {
   compileOnly "org.keycloak:keycloak-server-spi-private:${project.property('keycloak-version')}"
 
   // Use JUnit test framework
-  testCompile 'junit:junit:4.13'
+  testCompile 'junit:junit:4.13.1'
   testCompile 'org.xmlunit:xmlunit-core:2.7.0'
   testCompile 'com.jayway.jsonpath:json-path:2.4.0'
 }
